@@ -1,3 +1,5 @@
+[![ci](https://github.com/jngoodwin/c-plus-plus-docker/actions/workflows/main.yml/badge.svg)](https://github.com/jngoodwin/c-plus-plus-docker/actions/workflows/main.yml)
+
 A simple HTTP server implemented in C++ using the C++ REST SDK. It listens for incoming HTTP GET requests and responds with a JSON message. This is for Docker's [C++ Language Guide](https://docs.docker.com/language/cpp/).
 
 ## API
